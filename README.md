@@ -13,7 +13,7 @@ the gui should look like below and on the console should say connection est
 # 3.0 Functionality
 
 3.1 add a book
-populate the fields and hit the save button
+populate the registration fields and hit the save button
 
 ![image](https://user-images.githubusercontent.com/43549151/128934120-74ba644b-3da0-4c89-9e9e-7d50721fccc5.png)
 
